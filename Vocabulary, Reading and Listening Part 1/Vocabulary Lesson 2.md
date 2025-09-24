@@ -1,6 +1,6 @@
-# Vocabulary Notes - Vocabulary, Reading and Listening Part 2
 
-## Vocabulary Lesson 1
+
+## Vocabulary Lesson 2
 
 ### **confirm**
 - **Meaning:** onaylamak, doğrulamak  
@@ -92,9 +92,9 @@
 
 ---
 
-# Vocabulary Notes - Vocabulary, Reading and Listening Part 2
 
-## Example Sentences with Bold Vocabulary
+
+## Example Sentences 
 
 - Before finalizing the project plan, we need to **confirm** the availability of all team members.
 
