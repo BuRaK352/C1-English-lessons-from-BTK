@@ -1,77 +1,127 @@
-Meaning and usage
+# Vocabulary Notes - Vocabulary, Reading and Listening Part 2
 
-confirm: onaylamak dogrulamak
-meaning:to prove that a belief or an opinion that was previously not completely certain is true
-example: her announcement confirmed (that0) she would be resigning as CEO
+## Vocabulary Lesson 1
 
-debtor: borclu
-meaning: someone who owes money
-example: its getting really hard for debtors to pay back their debts
+### **confirm**
+- **Meaning:** onaylamak, doğrulamak  
+- **Example:** Before finalizing the project plan, we need to **confirm** the availability of all team members.
 
-outline: taslak, -ozetlemek
-meaning: a description of the main facts ab something
-example: if u read the minutes of the meeting they will give u a broad outline of what was discussed
+---
 
-asset: varlik
-meaning: a useful or valuable quality, skill or person
-example: he will be a great asset to the team
+### **debtor**
+- **Meaning:** borçlu  
+- **Example:** Despite numerous attempts to reach out, the **debtor** has yet to respond to our payment reminders.
 
-redundancy: gereksiz cokluk, tekrar
-meaning: a situation in which is something is unnecesarrt because its more than is needed
-example: the aircraft has seven computer systems running in parallel so as to provide enough redundancy to cope with computer breakdowns
+---
 
-yield: verim, teslim olmak
-meaning: to supple or prodice something positive such as a profit an amount of food or information
-example: favorable weather yielded a good crop
+### **outline**
+- **Meaning:** taslak, özetlemek  
+- **Example:** Let me provide you with a brief **outline** of the main topics we will cover in today's meeting.
 
-vegetation:bitki ortusu
-meaning:plants in general or plants that r found in a particular area
-example: the railway track will have to be cleared of vegetation if its to be used again
+---
 
-acquisition: edinim
-meaning: the process of getting something
-example:the acquisition of huge amount of data has helped our research enormously
+### **asset**
+- **Meaning:** varlık, değerli şey  
+- **Example:** The company's most valuable **asset** is its highly skilled workforce whose expertise and dedication drive innovation and growth.
 
-narrator: anlatici
-meaning: the character who tells u what is happening in a book or film
-example: sir david attenborough is the most well=known narrator in the world
+---
 
-enhance: artirmak yukseltmek
-meaning: to improve the quality amoint or strenght of something
-example: these scandals will not enhance the organization's reputation
+### **redundancy**
+- **Meaning:** gereksiz çokluk, tekrar  
+- **Example:** The **redundancy** of certain administrative tasks within the workflow significantly hampers efficiency and productivity.
 
-ally: muttefil
-meaning: a country that has agreed officialy to give help and siupport to antoehr one espacially during a war
-example: the US is one of britain's staunchest allies
+---
 
-predict: tahmin etmek
-meaning: to say that an event or action will happen in the future, especially as a result of knowledge or experience
-example: its still not possible to accurately predict the occurence of earthquakes
+### **yield**
+- **Meaning:** verim, teslim olmak  
+- **Example:** The agricultural experiment **yielded** promising results, indicating a potential increase in crop **yield** for the upcoming harvest season.
 
-stimulate
-Meaning: to encourage something to grow, develop, or become active
-Example: The government plans to cut taxes in order to stimulate the economy.
+---
 
-capture
-Meaning: to take someone as a prisoner, or to take something into your possession, especially by force
-Example: Two of the soldiers were killed and the rest were captured.
+### **vegetation**
+- **Meaning:** bitki örtüsü  
+- **Example:** The lush **vegetation** surrounding the waterfall creates a picturesque scene.
 
-diverse
-Meaning: very different from each other and of various kinds
-Example: People from diverse cultures were invited to the event.
+---
 
+### **acquisition**
+- **Meaning:** edinim, kazanım  
+- **Example:** The recent **acquisition** of the tech startup has bolstered our company's portfolio.
 
+---
 
+### **narrator**
+- **Meaning:** anlatıcı  
+- **Example:** The **narrator's** voice guides us through the story, offering insights into the characters' lives.
 
+---
 
+### **enhance**
+- **Meaning:** artırmak, yükseltmek  
+- **Example:** The new software update promises to **enhance** the user experience.
 
+---
 
+### **ally**
+- **Meaning:** müttefik  
+- **Example:** In the competitive landscape, having a reliable **ally** can significantly bolster your position.
 
+---
 
+### **predict**
+- **Meaning:** tahmin etmek  
+- **Example:** The data analytics team used advanced algorithms to **predict** future market trends.
 
+---
 
+### **stimulate**
+- **Meaning:** teşvik etmek, harekete geçirmek  
+- **Example:** The government implemented policies to **stimulate** job growth and investment.
 
+---
 
+### **capture**
+- **Meaning:** ele geçirmek, yakalamak  
+- **Example:** Two of the soldiers were killed and the rest were **captured**.
 
+---
 
+### **diverse**
+- **Meaning:** çeşitli, farklı  
+- **Example:** People from **diverse** cultures were invited to the event.
 
+---
+
+# Vocabulary Notes - Vocabulary, Reading and Listening Part 2
+
+## Example Sentences with Bold Vocabulary
+
+- Before finalizing the project plan, we need to **confirm** the availability of all team members.
+
+- Despite numerous attempts to reach out, the **debtor** has yet to respond to our payment reminders.
+
+- Let me provide you with a brief **outline** of the main topics we will cover in today's meeting.
+
+- The company's most valuable **asset** is its highly skilled workforce whose expertise and dedication drive innovation and growth.
+
+- The **redundancy** of certain administrative tasks within the workflow significantly hampers efficiency and productivity, necessitating a thorough review and streamlining of processes.
+
+- The agricultural experiment **yielded** promising results, indicating a potential increase in crop **yield** for the upcoming harvest season.
+
+- The lush **vegetation** surrounding the waterfall creates a picturesque scene, with vibrant greenery cascading down the rocky cliffs, enhancing the natural beauty of the landscape.
+
+- The recent **acquisition** of the tech startup has bolstered our company's portfolio, expanding our reach into new markets and diversifying our product offerings.
+
+- The **narrator's** voice guides us through the story, offering insights into the characters' lives and the unfolding events.
+
+- The new software update promises to **enhance** the user experience by introducing improved features and streamlined functionality.
+
+- In the competitive landscape of the industry, having a reliable **ally** can significantly bolster your position and provide support during challenging times.
+
+- The data analytics team used advanced algorithms to **predict** future market trends, providing valuable insights for strategic decision-making.
+
+- The government implemented various economic policies to **stimulate** job growth and encourage investment in key industries, ultimately revitalizing the economy.
+
+- The photographer's skillful composition and use of lighting helped **capture** the essence of the breathtaking landscape, preserving its beauty for generations to come.
+
+- The **diverse** range of perspectives presented in the panel discussion enriched the dialogue, fostering a deeper understanding of the complex issues at hand.
