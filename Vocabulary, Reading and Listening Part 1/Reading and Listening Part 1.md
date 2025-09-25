@@ -1,6 +1,5 @@
 # Reading and Listening Part 1 - Vocabulary Notes
 
-## Düzeltilmiş Metin
 
 As she sat in her office, Dr. Emily Parker **reflected** on how far she had come since her early days in the medical field.  
 **Initially**, she had **conceived** of her career as a **straightforward** path to helping people,  
