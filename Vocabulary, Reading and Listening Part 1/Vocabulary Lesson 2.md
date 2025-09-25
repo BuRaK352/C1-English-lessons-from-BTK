@@ -4,85 +4,85 @@
 
 ### **confirm**
 - **Meaning:** onaylamak, doğrulamak  
-- **Example:** Before finalizing the project plan, we need to **confirm** the availability of all team members.
+- **Example:** Her announcement **confirmed** (that) she would be resigning as CEO.  
 
 ---
 
 ### **debtor**
 - **Meaning:** borçlu  
-- **Example:** Despite numerous attempts to reach out, the **debtor** has yet to respond to our payment reminders.
+- **Example:** It’s getting really hard for **debtors** to pay back their debts.  
 
 ---
 
 ### **outline**
 - **Meaning:** taslak, özetlemek  
-- **Example:** Let me provide you with a brief **outline** of the main topics we will cover in today's meeting.
+- **Example:** If you read the minutes of the meeting, they will give you a broad **outline** of what was discussed.  
 
 ---
 
 ### **asset**
 - **Meaning:** varlık, değerli şey  
-- **Example:** The company's most valuable **asset** is its highly skilled workforce whose expertise and dedication drive innovation and growth.
+- **Example:** He will be a great **asset** to the team.  
 
 ---
 
 ### **redundancy**
 - **Meaning:** gereksiz çokluk, tekrar  
-- **Example:** The **redundancy** of certain administrative tasks within the workflow significantly hampers efficiency and productivity.
+- **Example:** The aircraft has seven computer systems running in parallel so as to provide enough **redundancy** to cope with computer breakdowns.  
 
 ---
 
 ### **yield**
 - **Meaning:** verim, teslim olmak  
-- **Example:** The agricultural experiment **yielded** promising results, indicating a potential increase in crop **yield** for the upcoming harvest season.
+- **Example:** Favorable weather **yielded** a good crop.  
 
 ---
 
 ### **vegetation**
 - **Meaning:** bitki örtüsü  
-- **Example:** The lush **vegetation** surrounding the waterfall creates a picturesque scene.
+- **Example:** The railway track will have to be cleared of **vegetation** if it’s to be used again.  
 
 ---
 
 ### **acquisition**
 - **Meaning:** edinim, kazanım  
-- **Example:** The recent **acquisition** of the tech startup has bolstered our company's portfolio.
+- **Example:** The **acquisition** of a huge amount of data has helped our research enormously.  
 
 ---
 
 ### **narrator**
 - **Meaning:** anlatıcı  
-- **Example:** The **narrator's** voice guides us through the story, offering insights into the characters' lives.
+- **Example:** Sir David Attenborough is the most well-known **narrator** in the world.  
 
 ---
 
 ### **enhance**
 - **Meaning:** artırmak, yükseltmek  
-- **Example:** The new software update promises to **enhance** the user experience.
+- **Example:** These scandals will not **enhance** the organization’s reputation.  
 
 ---
 
 ### **ally**
 - **Meaning:** müttefik  
-- **Example:** In the competitive landscape, having a reliable **ally** can significantly bolster your position.
+- **Example:** The US is one of Britain’s staunchest **allies**.  
 
 ---
 
 ### **predict**
 - **Meaning:** tahmin etmek  
-- **Example:** The data analytics team used advanced algorithms to **predict** future market trends.
+- **Example:** It’s still not possible to accurately **predict** the occurrence of earthquakes.  
 
 ---
 
 ### **stimulate**
 - **Meaning:** teşvik etmek, harekete geçirmek  
-- **Example:** The government implemented policies to **stimulate** job growth and investment.
+- **Example:** The government plans to cut taxes in order to **stimulate** the economy.  
 
 ---
 
 ### **capture**
 - **Meaning:** ele geçirmek, yakalamak  
-- **Example:** Two of the soldiers were killed and the rest were **captured**.
+- **Example:** Two of the soldiers were killed and the rest were **captured**.  
 
 ---
 
@@ -91,8 +91,6 @@
 - **Example:** People from **diverse** cultures were invited to the event.
 
 ---
-
-
 
 ## Example Sentences 
 
